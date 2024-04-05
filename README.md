@@ -9,8 +9,6 @@ The repository contains a Laravel application showcasing a custom logging channe
 - [Environment Configuration](#environment-configuration)
 - [License](#license)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
 ## Getting Started
 
 First, make sure you have `docker` and `make` installed in your system. To set up the project on your local machine, follow these steps:
