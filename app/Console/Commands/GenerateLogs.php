@@ -5,7 +5,6 @@ namespace App\Console\Commands;
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Str;
-use function Laravel\Prompts\text;
 
 class GenerateLogs extends Command {
     protected $signature = 'app:generate-logs {--count=}';
